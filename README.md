@@ -1,8 +1,9 @@
-# Welcome to your CDK TypeScript project!
+# Austin's CDK/Typescript app to deploy static website to s3
 
-This is a blank project for TypeScript development with CDK.
+This project uses TypeScript development with CDK.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+The purpose is to deploy an index.html in the websites directory
+as a static website in s3.
 
 ## Useful commands
 
